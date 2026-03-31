@@ -6,8 +6,7 @@
 * Hardware Supported: 
 * Hardware Availability: 
 
-This is my very first macropad made for HC v1
-
+This is my very first macropad made for Hackpad. I designed it to be optimised for my little desk :>
 
 A screenshot of your overall hackpad
 A screenshot of your schematic
@@ -21,9 +20,11 @@ a BOM for your parts
 - 1x EC11 Rotary Encoder
 - 4x Cherry MX switches
 - 4x SK6812 MINI-E LEDs
+- 
 
 
 ### Others
+- Custom PCB
 - QMK Firmware
 - Case.STL
 
