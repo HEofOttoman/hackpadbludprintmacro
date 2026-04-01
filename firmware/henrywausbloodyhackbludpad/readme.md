@@ -1,6 +1,6 @@
 # henrywausbloodyhackbludpad
 
-![henrywausbloodyhackbludpad](imgur.com image replace me!)
+![henrywausbloodyhackbludpad]()
 
 *A short description of the keyboard/project*
 

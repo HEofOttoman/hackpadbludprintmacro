@@ -3,8 +3,6 @@
 ![HenryWau]()
 
 * Keyboard Maintainer: [Henry Wauzivuff](https://github.com/heofottoman)
-* Hardware Supported: 
-* Hardware Availability: 
 
 This is my very first macropad made for Hackpad. I designed it to be optimised for my little desk :>
 
@@ -19,14 +17,25 @@ a BOM for your parts
 - 1x Seeed Xiao RP4020
 - 1x EC11 Rotary Encoder
 - 4x Cherry MX switches
+- 4x Blank Keycaps
 - 4x SK6812 MINI-E LEDs
-- 
-
+- 4x Screws
 
 ### Others
 - Custom PCB
 - QMK Firmware
 - Case.STL
 
-| Schematic | PCB | Case
-| ![imgSchematic]() | ![imgPCB]() | ![imgCase]()
+#### Schematic
+![imgSchematic](assets/schematic.png) 
+https://cdn.hackclub.com/019d466b-ad1f-7994-9d12-ee104b858810/image.png
+
+#### PCB
+| ![imgPCB]() 
+
+#### Case
+| ![imgCase]()
+
+
+## References
+
