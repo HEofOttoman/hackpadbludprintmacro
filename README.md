@@ -32,7 +32,10 @@ a BOM for your parts
 https://cdn.hackclub.com/019d466b-ad1f-7994-9d12-ee104b858810/image.png
 
 #### PCB
-![imgPCB]() 
+![imgPCB]()
+Dimensions at max: 38.496 x 97.794 mm
+Top left corner to USB - 7.452 mm
+
 
 #### Case
 ![imgCase]()
