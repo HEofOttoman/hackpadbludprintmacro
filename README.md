@@ -1,6 +1,6 @@
 # HenryWau's BludPad
 
-![HenryWauPad]()
+![HenryWauPad](<assets/all together.png>)
 
 * Keyboard Maintainer: [Henry Wauzivuff](https://github.com/heofottoman)
 
@@ -28,18 +28,19 @@ a BOM for your parts
 - Case.STL
 
 #### Schematic
-![imgSchematic](assets/imgschematic.png) 
+![imgSchematic](assets/schematic.png) 
 https://cdn.hackclub.com/019d466b-ad1f-7994-9d12-ee104b858810/image.png
 
 #### PCB
-![imgPCB]()
+![imgPcb](assets/pcb.png)
+
 Dimensions at max: 38.496 x 97.794 mm
+
 Top left corner to USB - 7.452 mm
 
 
 #### Case
-![imgCase]()
-
+![imgCase](assets/case.png)
 
 ## References 
 A list of the resources I used to hopefully help others and keep their own piece of sanity where I've lost it..
