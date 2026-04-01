@@ -87,9 +87,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "../production/pcb/gerbers/")
 		)
 	)
 	(footprint "HC Care Package footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM"
