@@ -1,12 +1,13 @@
 # HenryWau's BludPad
 
-![HenryWauPad](<assets/all together.png>)
+![HenryWauPad](<assets/alltogether.png>)
 
 * Keyboard Maintainer: [Henry Wauzivuff](https://github.com/heofottoman)
 
-This is my very first macropad made for Hackpad. I designed it to be optimised for my little desk, being long and narrow, and also having a pretty cool pcb :>
+This is my very first macropad (and hardware project!) made for Hackpad. I designed it to be optimised for my little desk, being long and narrow, and also having a pretty cool pcb :>
 
-```qmk compile -kb henrywausbloodyhackbludpad -km default```
+Currently, the firmware binds the keys to Ctrl Z, numpad 1,3,7 & mswhl up/down, designed to help me with creative software, Blender specifically.
+
 
 ## Specifications
 ### BOM
@@ -30,12 +31,15 @@ https://cdn.hackclub.com/019d466b-ad1f-7994-9d12-ee104b858810/image.png
 ![imgPcb](assets/imgpcb.png)
 
 Dimensions at max: 38.496 x 97.794 mm
-
 Top left corner to USB - 7.452 mm
 
+Keyhole dimensions:
+x = 2.635
+y = 0.233
 
 ### Case
 ![imgCase](assets/imgcase.png)
+![imgCasePlate](assets/imgcaseplate.png)
 
 ## References 
 A list of the resources I used to hopefully help others and keep their own piece of sanity where I've lost it..
