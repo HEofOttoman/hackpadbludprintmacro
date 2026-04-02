@@ -3,7 +3,7 @@
 
 #include QMK_KEYBOARD_H
 
-enum layer_names{ //OOH FUH ITS () INSTEAD OF {}
+enum layer_names{
     _BASE//,
     //_QWERTY,
     //_FN,
@@ -23,10 +23,10 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
      *     └───┘
      */
     [_BASE] = LAYOUT(
-        KC_1,
-        KC_2,   KC_5,
-        KC_3,
-        KC_4
+        LCTL(KC_Z) //KC_1,
+        KC_KP_1, KC_5 //KC_2,   KC_5,
+        KC_KP_3 //KC_3,
+        KC_KP_7 //KC_4
     )
 };
 

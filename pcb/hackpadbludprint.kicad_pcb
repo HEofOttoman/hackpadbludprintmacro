@@ -89,7 +89,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "../production/pcb/gerbers/")
+			(outputdirectory "../production/pcb/")
 		)
 	)
 	(footprint "HC Care Package footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM"
@@ -4167,7 +4167,7 @@
 			(at 4 -2.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "d8d11081-d749-4eb4-bf3f-791a9d881228")
+			(uuid "3a44eb2d-ce74-49c9-8671-d4f0ca2c35a6")
 			(effects
 				(font
 					(size 1 1)
@@ -4179,7 +4179,7 @@
 			(at 0.5 20 270)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "86ef3cc3-0873-4ebd-afe6-85fab3b0c10c")
+			(uuid "82eafc6e-27de-4168-b365-ea402a348968")
 			(effects
 				(font
 					(size 1 1)
@@ -4192,7 +4192,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "30878f5c-14a8-4ef6-b7ce-37d2a053136a")
+			(uuid "415c4524-4946-4fa9-863f-05a49b89604c")
 			(effects
 				(font
 					(size 1 1)
@@ -4205,7 +4205,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b17896d7-3d52-44f7-8eca-90828357f647")
+			(uuid "0f4dbb86-96f7-4d85-89a1-5452cba6143a")
 			(effects
 				(font
 					(size 1 1)
