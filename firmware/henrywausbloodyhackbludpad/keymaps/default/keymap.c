@@ -4,8 +4,8 @@
 #include QMK_KEYBOARD_H
 
 enum layer_names{
-    _BASE//,
-    //_QWERTY,
+    _BASE,
+    _QWERTY//,
     //_FN,
     //_ADJ
 };
@@ -33,8 +33,8 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
 #if defined(ENCODER_MAP_ENABLE)
 const uint16_t PROGMEM encoder_map[][NUM_ENCODERS][NUM_DIRECTIONS] = {
-    [_BASE] = { ENCODER_CCW_CW(MS_WHLU, MS_WHLD)  }//,
-    //[_QWERTY] = { ENCODER_CCW_CW(KC_VOLD, KC_VOLU) },
+    [_BASE] = { ENCODER_CCW_CW(MS_WHLU, MS_WHLD)  },
+    [_QWERTY] = { ENCODER_CCW_CW(KC_VOLD, KC_VOLU) }//,
     //[_FN] = { ENCODER_CCW_CW(UG_VALD, UG_VALU)  },
     //[_ADJ] = { ENCODER_CCW_CW(UG_PREV, UG_NEXT)  },
 };
